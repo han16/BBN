@@ -1,0 +1,14 @@
+Package: BBN
+Type: Package
+Title: Bayesian Boolean Network inference 
+Version: 0.1.0
+Authors@R: person("Shengtong Han", "Xiaodan Fan", email = "shengtonghan@gmail.com",
+                  role = c("cre", "aut"))
+Description: BBN is a Bayesian approach to infer Boolean networks including both topology structure and transition functions..
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.1)
+Imports:
+    stringr
+RoxygenNote: 7.1.0
